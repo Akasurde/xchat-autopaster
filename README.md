@@ -5,7 +5,7 @@ This plugin is licensed under the GPL V3 license.
 
 Description
 ===
-Xchat plugin for auto pasting multiple line entries to as0 and returns a URL.
+Xchat plugin for auto pasting multiple line entries to pastebin and returns a URL.
 
 Installation
 ===

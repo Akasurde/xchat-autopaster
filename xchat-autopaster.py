@@ -8,7 +8,6 @@ Bhavik Bhavsar
 
 It's largely inspired by (now defunct) module copypastebin plugin
 
-Modified to use as0 to paste instead of gist
 """
 
 __module_name__ = "Xchat-Autopaster"
@@ -16,7 +15,7 @@ __module_version__ = "1.0.1"
 __module_description__ = "A script that automatically pastes multiline text and returns a URL."
 
 #Telling the user we loaded the plugin
-print "\0034", __module_name__, __module_version__, "has been loaded\003"
+print "\0034", __module_name__, __module_version__, "has been loaded :) \003"
 
 
 #Importing necessary modules
